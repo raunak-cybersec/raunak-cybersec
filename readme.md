@@ -25,9 +25,7 @@ I'm a 2nd year B.Tech CSE student who builds full-stack web apps. I love turning
 
 ## 📫 Let's connect
 
-- 📧 your.email@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-
----
+- 📧 raunak96963@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/raunak-rai-35968b316 )
 
 *Open to web development internships — feel free to reach out!*
