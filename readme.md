@@ -25,7 +25,9 @@
 <br/><br/>
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/raunak-cybersec/raunak-cybersec/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+```html
+<img src="https://raw.githubusercontent.com/raunak-cybersec/raunak-cybersec/output/github-contribution-grid-snake.svg" alt="snake animation" />
+```
 
 </div>
 
