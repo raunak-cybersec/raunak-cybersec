@@ -18,17 +18,20 @@
 <a href="mailto:raunak96963@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/raunak-cybersec">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.credly.com/badges/f63910b2-97ca-4371-8cc4-2611a00708ca/public_url">
+  <img src="https://img.shields.io/badge/MongoDB_Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
 <br/><br/>
 
-:::
-:::writing{variant="standard" id="63825"}
-```html id="ec7jlwm"
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/raunak-cybersec/raunak-cybersec/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<!-- Fun coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+<br/>
+
+<!-- Humorous dev quotes typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1500&color=a0aec0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=30&lines=It+works+on+my+machine+%E2%84%A2;console.log('why+is+this+undefined+%F0%9F%98%AD');git+commit+-m+'fix'+(commit+%23847);404%3A+Sleep+not+found;npm+install+--save+my-sanity;The+bug+is+a+feature+in+disguise+%F0%9F%90%9B;Stack+Overflow+is+my+co-founder+%F0%9F%99%8F;I+don't+always+test+my+code...+but+when+I+do%2C+in+production" />
+
 </div>
 
 ---
@@ -45,7 +48,8 @@ const raunak = {
   certification: "MongoDB Associate Developer 🏆",
   stack: ["React", "Node.js", "Express", "MongoDB", "JWT", "Python"],
   funFact: "I don't just learn tech — I ship real products 🚀",
-  openTo: "Paid Web Development Internships 💼"
+  openTo: "Paid Web Development Internships 💼",
+  hoursOfSleep: function() { return Math.random() > 0.5 ? 6 : "undefined" }
 };
 ```
 
@@ -130,6 +134,14 @@ const raunak = {
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-cybersec&bg_color=0d1117&color=6ee7b7&line=6ee7b7&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
 ## 🏆 Certifications
 
 <div align="center">
@@ -143,21 +155,17 @@ const raunak = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-cybersec&bg_color=0d1117&color=6ee7b7&line=6ee7b7&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
-<!-- Animated footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- Cat coding gif -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="cat coding"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=Open+to+paid+web+development+internships+💼;Let's+build+something+real+together+🚀;raunak96963%40gmail.com" alt="footer typing" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raunak-cybersec&color=6ee7b7&style=flat-square&label=Profile+Views)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
