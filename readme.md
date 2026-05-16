@@ -103,7 +103,7 @@ const raunak = {
 <div align="center">
 
 <a href="https://rentease-azure.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=radical?username=raunak-cybersec&repo=Rentease&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
 </a>
 <a href="https://finflow-thzg.onrender.com">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
