@@ -103,20 +103,22 @@ const raunak = {
 <div align="center">
 
 <a href="https://rentease-azure.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=radical?username=raunak-cybersec&repo=Rentease&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=radical&hide_border=true" />
 </a>
+
 <a href="https://finflow-thzg.onrender.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=radical&hide_border=true" />
 </a>
+
 <a href="https://devpulse-1dcgrc2f8-raunak-cybersecs-projects.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=radical&hide_border=true" />
 </a>
+
 <a href="https://raunakrai.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=a0aec0&icon_color=6ee7b7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=radical&hide_border=true" />
 </a>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
