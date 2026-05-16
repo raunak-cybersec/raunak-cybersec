@@ -24,11 +24,11 @@
 
 <br/><br/>
 
+:::
+:::writing{variant="standard" id="63825"}
+```html id="ec7jlwm"
 <!-- Snake animation -->
-```html
 <img src="https://raw.githubusercontent.com/raunak-cybersec/raunak-cybersec/output/github-contribution-grid-snake.svg" alt="snake animation" />
-```
-
 </div>
 
 ---
