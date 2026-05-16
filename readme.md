@@ -100,17 +100,47 @@ const raunak = {
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![Rentease](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=tokyonighthttps://github.com/raunak-cybersec/Rentease)
+### 🏠 Rentease
+Rental platform with modern UI and authentication system.
 
-[![finflow](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=tokyonighthttps://github.com/raunak-cybersec/finflow)
+🔗 https://github.com/raunak-cybersec/Rentease
 
-[![devpulse](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=tokyonighthttps://github.com/raunak-cybersec/devpulse)
+</td>
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=tokyonighthttps://github.com/raunak-cybersec/portfolio)
+<td width="50%">
 
-</div>
+### 💸 finflow
+Finance tracking web app with analytics dashboard.
+
+🔗 https://github.com/raunak-cybersec/finflow
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 devpulse
+GitHub profile analyzer using GitHub REST API.
+
+🔗 https://github.com/raunak-cybersec/devpulse
+
+</td>
+
+<td width="50%">
+
+### 🌐 portfolio
+Personal developer portfolio built with React + TypeScript.
+
+🔗 https://github.com/raunak-cybersec/portfolio
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
