@@ -98,7 +98,19 @@ const raunak = {
 
 ---
 
-## 🔥 Featured Projects <div align="center"> [![Rentease](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=github_dark)](https://github.com/raunak-cybersec/Rentease) [![finflow](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=github_dark)](https://github.com/raunak-cybersec/finflow) [![devpulse](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=github_dark)](https://github.com/raunak-cybersec/devpulse) [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=github_dark)](https://github.com/raunak-cybersec/portfolio) </div>
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Rentease](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=tokyonight)](https://github.com/raunak-cybersec/Rentease)
+
+[![finflow](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=tokyonight)](https://github.com/raunak-cybersec/finflow)
+
+[![devpulse](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=tokyonight)](https://github.com/raunak-cybersec/devpulse)
+
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=tokyonight)](https://github.com/raunak-cybersec/portfolio)
+
+</div>
 
 ## 📊 GitHub Stats
 
