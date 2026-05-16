@@ -98,7 +98,7 @@ const raunak = {
 
 ---
 
-## 🔥 Featured Projects <div align="center"> <a href="https://rentease-azure.vercel.app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=tokyonight&hide_border=true" /> </a> <a href="https://finflow-thzg.onrender.com"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=tokyonight&hide_border=true" /> </a> <a href="https://devpulse-1dcgrc2f8-raunak-cybersecs-projects.vercel.app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=tokyonight&hide_border=true" /> </a> <a href="https://raunakrai.vercel.app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=tokyonight&hide_border=true" /> </a> </div>
+## 🔥 Featured Projects <div align="center"> [![Rentease](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=Rentease&theme=github_dark)](https://github.com/raunak-cybersec/Rentease) [![finflow](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=finflow&theme=github_dark)](https://github.com/raunak-cybersec/finflow) [![devpulse](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=devpulse&theme=github_dark)](https://github.com/raunak-cybersec/devpulse) [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raunak-cybersec&repo=portfolio&theme=github_dark)](https://github.com/raunak-cybersec/portfolio) </div>
 
 ## 📊 GitHub Stats
 
