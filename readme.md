@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raunak%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=52&descSize=16"/>
 
 <!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+full-stack+web+apps+🚀;React+%2B+Node.js+%2B+MongoDB+Engineer;MongoDB+Associate+Developer+Certified+🏆;Research+Intern+%40+SRM+University+AP+🔬;Open+to+paid+internships+💼" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+🚀;React+%2B+Node.js+%2B+MongoDB+Engineer;MongoDB+Associate+Developer+Certified+🏆" />
 
 <br/>
 
